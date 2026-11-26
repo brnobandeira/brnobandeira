@@ -1,16 +1,28 @@
-## Hi there 👋
+# Bruno Bandeira
 
-<!--
-**brnobandeira/brnobandeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fundador da [Veforma](https://veforma.com.br).
 
-Here are some ideas to get you started:
+Combino arquitetura de software, estratégia de produto e liderança técnica para desenvolver soluções que transformam a experiência de compra por meio de visualização 3D, personalização interativa e realidade aumentada (AR).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Atualmente, meu foco está em:
+
+- Desenvolver e evoluir a plataforma da Veforma
+- Construir arquiteturas de software escaláveis
+- Explorar tecnologias de visualização 3D e realidade aumentada
+- Desenvolver integrações com plataformas de e-commerce
+- Criar soluções que conectam tecnologia, experiência de compra e vendas
+- Liderar a estratégia, o crescimento e a evolução do produto
+
+---
+
+### 💙 Na Veforma
+
+Desenvolvemos tecnologias para empresas que querem transformar a experiência de compra e vender mais com 3D & AR.
+
+Nossa missão é tornar a experiência de compra digital mais visual, interativa e personalizada, aproximando os consumidores dos produtos.
+
+---
+
+### Curiosidade 😂
+
+Às vezes eu passo 10 horas automatizando um processo que levaria 5 minutos para fazer manualmente.
